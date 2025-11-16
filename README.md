@@ -1,5 +1,7 @@
-
-
+Patricia = navbar
+Arantxa = contact
+Sergio = portfolio y services
+Bruno = Tagline y First heading
 
 
 
